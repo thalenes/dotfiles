@@ -22,7 +22,7 @@ bspc rule -a mplayer2 state=floating
 bspc rule -a Kupfer.py focus=on
 bspc rule -a Screenkey manage=off
 
-feh --bg-scale /home/farnese/wal/3.png &
+feh --bg-scale /home/farnese/wal/10.png &
 picom &
 polybar principal &
 wmname none &
