@@ -1,0 +1,12 @@
+import = ["~/.config/alacritty/tokyo-night.toml"]
+
+[font]
+size = 10.0
+
+[font.normal]
+family = "JetBrains Mono Nerd Font"
+
+[window.padding]
+x = 0
+y = 0
+
